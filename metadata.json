@@ -1,0 +1,10 @@
+{
+  "name": "GAIA",
+  "description": "GAIA - Intelligent Geospatial Data Integration platform for unifying cadastral, municipal, drone, and revenue land records.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
